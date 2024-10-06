@@ -9,6 +9,7 @@
 - ✨ My major is Software Developer
 - 🌱 I’m currently learning to become a Frontend Developer and further more is a Fullstack Developer
 - 📫 How to reach me **duyduong365900.it@gmail.com**
+- 📫 Checkout my portpolio website at: https://portfolio-duydev689.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
