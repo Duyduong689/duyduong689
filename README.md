@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Duong Duy</h1>
-<p align="center">I am a 4rd-year student majoring in Information Technology. With the professional knowledge I have learned, I want to find a suitable place so that I can learn, promote my knowledge, and contribute to all of my skills.I want to work and experience more not only on the Front-end, but also in all other fields such as Back-end, Dev-Ops, SEO,... in other to full fill myself become a Full-Stack Developer</h3>
+<p align="center">I am a front-end developer with a passion for building responsive, user-friendly web interfaces. I have strong experience in modern JavaScript frameworks, UI/UX design, and performance optimization.</h3>
 <br>
 <br>
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" align="right" alt="Coding" width="400" />
